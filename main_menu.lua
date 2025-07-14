@@ -16,7 +16,7 @@ local Tab5 = Window:CreateTab("Misc", 4483362458)
 local Button = Tab:CreateButton({
    Name = "Aimbot",
    Callback = function()
-   -- The function that takes place when the button is pressed
+               print(1)
    end,
 })
     
