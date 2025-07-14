@@ -12,11 +12,3 @@ local Tab2 = Window:CreateTab("Visual", 4483362458)
 local Tab3 = Window:CreateTab("PLayer", 4483362458)
 local Tab4 = Window:CreateTab("Gun", 4483362458)
 local Tab5 = Window:CreateTab("Misc", 4483362458)
-
-local Button = Tab:CreateButton({
-   Name = "Aimbot",
-   Callback = function()
-               print(1)
-   end,
-})
-    
